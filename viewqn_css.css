@@ -1,0 +1,35 @@
+@font-face{
+	font-family: "my-font";
+	src:url("open.ttf");
+}
+.container{
+	font-family: "my-font";
+}
+.banner{
+	color:white;
+	font-size:70px;
+}
+.enter{
+	font-size: 20px;
+}
+.main{
+	font-family:"my-font";
+
+}
+body{
+	 background: url('./images/B2.jpg');
+	background-size: 1500px 102000px;
+}
+p.thicker {
+    font-weight: 900;
+}
+.a:hover
+{
+background-color:black;
+color:white;
+cursor:pointer;
+}
+p
+{
+color:white;
+}

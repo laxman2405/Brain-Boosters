@@ -1,0 +1,33 @@
+@font-face{
+	font-family: "my-font";
+	src:url("open.ttf");
+}
+.container{
+	font-family:"my-font";
+}
+.banner{
+	font-size: 50px;
+	color:black;
+}
+h{
+	font-size:30px;
+	color:black;
+}
+body{
+	 background: url('./images/B5.jpg');
+	background-size: 11000px 1000px;
+}
+p.thicker {
+    font-weight: 900;
+}
+.a:hover
+{
+background-color:black;
+color:white;
+cursor:pointer;
+}
+p
+{
+height:20px;
+}
+
